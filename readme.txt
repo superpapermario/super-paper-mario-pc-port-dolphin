@@ -1,4 +1,4 @@
-if the shortcut doesn't work, or it's your first time launching the app, go in the "Resources" Folder and launch "create shortcut.bat". this will create desktop & start menu shortcuts to the game.
+if you move the app's folder, go in the "Resources" Folder and launch "create shortcut.bat". this will create desktop & start menu shortcuts to the newly moved game folder.
 if you need to change the emulator settings, click "launch dolphin.bat".
 controls:
 a: default
